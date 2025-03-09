@@ -49,3 +49,22 @@ Untuk menjalankan proyek ini, ikuti langkah-langkah berikut:
    deactivate
    ```
 
+## Cara Menjalankan Projek
+
+### Menjalankan Dashboard Streamlit
+Untuk menjalankan dashboard interaktif, jalankan perintah berikut di direktori root:
+
+```sh
+streamlit run dashboard/dashboard.py
+```
+Dashboard akan terbuka secara otomatis di browser Anda.
+
+### Menjalankan Jupyter Notebook
+Untuk melihat analisis data secara lebih mendalam, jalankan Jupyter Notebook dengan perintah:
+
+
+```sh
+jupyter notebook Proyek_Analisis_Data (1).ipynb
+```
+Kemudian, buka file `Proyek_Analisis_Data (1).ipynb` melalui antarmuka web Jupyter Notebook yang terbuka.
+
